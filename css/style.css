@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(255, 203, 126);
+}
+.first {
+    border: 1px solid darkblue;
+    background-color: darkkhaki;
+    width: 1200px;
+    height: 500px;
+}
+.blue {
+    border: 1px solid blue;
+    background-color: cornflowerblue;
+    width: 1150px;
+    height: 200px;
+    margin: 20px;
+    display: flex;
+}
+.blocks {
+    border: 1px solid darkcyan;
+    background-color: darkblue;
+    width: 200px;
+    height: 150px;
+    margin: 20px;
+}
+.second {
+    border: 1px solid red;
+    background-color: salmon;
+    width: 1200px;
+    height: 350px;
+    margin-top: 20px;
+    display: flex;
+}
+.block {
+    border: 1px solid darkblue;
+    background-color: blue;
+    width: 550px;
+    height: 300px;
+    margin: 20px;
+    display: flex;
+}
+.border {
+    border: 1px solid crimson;
+    background-color: blue;
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+}
+.green {
+    background-color: greenyellow;
+    width: 200px;
+    height: 100px;
+    margin: 20px;
+    display: flex;
+}
+.black {
+    background-color: indigo;
+    width: 90px;
+    height: 40px;
+    margin: 5px;
+} 
